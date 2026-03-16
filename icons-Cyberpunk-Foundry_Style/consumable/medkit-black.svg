@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.0"
+   id="Layer_1"
+   width="800px"
+   height="800px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" />
+<g
+   id="g3"
+   transform="matrix(0.87068966,0,0,0.87068966,4.137931,4.137931)">
+	<polygon
+   points="30,30 30,38 22,38 22,42 30,42 30,50 34,50 34,42 42,42 42,38 34,38 34,30 "
+   fill="#000000"
+   id="polygon1" />
+	<path
+   d="m 60,13 h -4 v 51 h 4 c 2.211,0 4,-1.789 4,-4 V 17 c 0,-2.211 -1.789,-4 -4,-4 z"
+   fill="#000000"
+   id="path1" />
+	<path
+   d="m 0,17 v 43 c 0,2.211 1.789,4 4,4 H 8 V 13 H 4 c -2.211,0 -4,1.789 -4,4 z"
+   fill="#000000"
+   id="path2" />
+	<path
+   d="M 48,4 C 48,1.789 46.211,0 44,0 H 20 c -2.211,0 -4,1.789 -4,4 v 9 H 10 V 64 H 54 V 13 h -6 z m -6,2 v 7 H 22 V 6 Z m 2,37 c 0,0.553 -0.447,1 -1,1 h -7 v 7 c 0,0.553 -0.447,1 -1,1 h -6 c -0.553,0 -1,-0.447 -1,-1 v -7 h -7 c -0.553,0 -1,-0.447 -1,-1 v -6 c 0,-0.553 0.447,-1 1,-1 h 7 v -7 c 0,-0.553 0.447,-1 1,-1 h 6 c 0.553,0 1,0.447 1,1 v 7 h 7 c 0.553,0 1,0.447 1,1 z"
+   fill="#000000"
+   id="path3" />
+</g>
+</svg>
